@@ -470,7 +470,7 @@ svg {
    justify-content: center;
    align-items: center;
    color: var(--light-slate);
-   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .client-link:hover,
